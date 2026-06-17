@@ -1,2 +1,2 @@
 # claude-safety-tester
-AI  Safety testing tool using claude API for claude  crops
+AI  Safety testing tool using claude API for claude  corps
